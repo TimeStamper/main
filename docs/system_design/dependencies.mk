@@ -12,7 +12,7 @@ system_design_dependencies=1
 # Module Dependencies
 #
 SOURCE_FILES := \
-  $(DEV_SRC)/$(SYSTEM_DESIGN_PATH)/source/system_design.tex \
+  $(DEV_SRC)/$(SYSTEM_DESIGN_PATH)/source/text/system_design.tex \
   $(SOURCE_FILES) \
   #
 
